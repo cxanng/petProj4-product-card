@@ -150,6 +150,6 @@ body {
 }
 
 .card:hover .card__size {
-  margin-top: 0px;
+  margin-top: -15px;
   transition-delay: 0.1s;
 }
